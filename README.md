@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌌 I’m currently working on Bringing wild ideas to life—one crazy project at a time<br>🧑‍🤝‍🧑 I’m looking to collaborate on Anything that sounds “too ambitious” 👀<br>🌱 I’m currently learning How to make the impossible…. slightly more possible<br>⚡ Fun fact<br>Most of my best project ideas came from late-night "what if..." thoughts 😅<br>I believe unrealistic work just needs a bit more time and caffeine.<br><br>
+🌌 I’m currently working on Bringing wild ideas to life—one crazy project at a time<br>🧑‍🤝‍🧑 I’m looking to collaborate on Anything that sounds “too ambitious” 👀<br>🌱 I’m currently learning How to make the impossible…. slightly more possible<br>⚡ Fun fact<br>Most of my best project ideas came from late-night "what if.." thoughts 😅<br>I believe unrealistic work just needs a bit more time and caffeine.<br><br>
 
 ![image](https://github.com/user-attachments/assets/37c6a4f8-49e6-476e-aabf-4aa46a949683)
 
