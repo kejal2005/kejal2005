@@ -59,47 +59,50 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/kejal2005/EdgeAI-Guard">🔐 EdgeAI-Guard</a></h3>
-      <p>Real-time multi-modal anomaly detection for edge devices using deep learning on audio-video streams.</p>
+    <td width="50%" style="vertical-align: top; background-color:#0d1117; padding:15px; border-radius:10px;">
+      <h3><a href="https://github.com/kejal2005/EdgeAI-Guard" style="color:#58a6ff;">🔐 EdgeAI-Guard</a></h3>
+      <p style="color:#c9d1d9;">Real-time multi-modal anomaly detection for edge devices using deep learning on audio-video streams.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
         <img src="https://img.shields.io/github/stars/kejal2005/EdgeAI-Guard?style=social" />
         <img src="https://img.shields.io/github/forks/kejal2005/EdgeAI-Guard?style=social" />
       </p>
     </td>
-    <td width="50%">
-      <h3><a href="https://github.com/kejal2005/realtime-code-editor">💻 Realtime Code Editor</a></h3>
-      <p>Collaborative real-time editor using WebSocket, Y.js and Ace Editor — like Google Docs for code!</p>
+    <td width="50%" style="vertical-align: top; background-color:#0d1117; padding:15px; border-radius:10px;">
+      <h3><a href="https://github.com/kejal2005/realtime-code-editor" style="color:#58a6ff;">💻 Realtime Code Editor</a></h3>
+      <p style="color:#c9d1d9;">Collaborative real-time editor using WebSocket, Y.js and Ace Editor — like Google Docs for code!</p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/github/stars/kejal2005/realtime-code-editor?style=social" />
         <img src="https://img.shields.io/github/forks/kejal2005/realtime-code-editor?style=social" />
       </p>
     </td>
   </tr>
 
+  <tr><td colspan="2"><br/></td></tr>
+
   <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/kejal2005/imagify-text-to-image">🖼️ Imagify</a></h3>
-      <p>Text-to-image AI platform that turns creative prompts into stunning visuals using generative models.</p>
+    <td width="50%" style="vertical-align: top; background-color:#0d1117; padding:15px; border-radius:10px;">
+      <h3><a href="https://github.com/kejal2005/imagify-text-to-image" style="color:#58a6ff;">🖼️ Imagify</a></h3>
+      <p style="color:#c9d1d9;">Text-to-image AI platform that turns creative prompts into stunning visuals using generative models.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
         <img src="https://img.shields.io/github/stars/kejal2005/imagify-text-to-image?style=social" />
         <img src="https://img.shields.io/github/forks/kejal2005/imagify-text-to-image?style=social" />
       </p>
     </td>
-    <td width="50%">
-      <h3><a href="https://github.com/kejal2005/gemini-aiml-chatbot">🤖 Gemini-AIML Chatbot</a></h3>
-      <p>Hybrid AI chatbot combining Gemini API and AIML for smart, rule-aware conversations.</p>
+    <td width="50%" style="vertical-align: top; background-color:#0d1117; padding:15px; border-radius:10px;">
+      <h3><a href="https://github.com/kejal2005/gemini-aiml-chatbot" style="color:#58a6ff;">🤖 Gemini-AIML Chatbot</a></h3>
+      <p style="color:#c9d1d9;">Hybrid AI chatbot combining Gemini API and AIML for smart, rule-aware conversations.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
         <img src="https://img.shields.io/github/stars/kejal2005/gemini-aiml-chatbot?style=social" />
         <img src="https://img.shields.io/github/forks/kejal2005/gemini-aiml-chatbot?style=social" />
       </p>
     </td>
   </tr>
 </table>
+
 
 
 
