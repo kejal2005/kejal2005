@@ -60,6 +60,16 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=kejal2005&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kejal2005&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kejal2005&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kejal2005&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
