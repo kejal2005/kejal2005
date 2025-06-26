@@ -55,6 +55,52 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/kejal2005/EdgeAI-Guard">🔐 EdgeAI-Guard</a></h3>
+      <p>Real-time multi-modal anomaly detection for edge devices using deep learning on audio-video streams.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-blue?style=flat-square" />
+        <img src="https://img.shields.io/github/stars/kejal2005/EdgeAI-Guard?style=social" />
+        <img src="https://img.shields.io/github/forks/kejal2005/EdgeAI-Guard?style=social" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/kejal2005/realtime-code-editor">💻 Realtime Code Editor</a></h3>
+      <p>Collaborative real-time editor using WebSocket, Y.js and Ace Editor — like Google Docs for code!</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-green?style=flat-square" />
+        <img src="https://img.shields.io/github/stars/kejal2005/realtime-code-editor?style=social" />
+        <img src="https://img.shields.io/github/forks/kejal2005/realtime-code-editor?style=social" />
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/kejal2005/imagify-text-to-image">🖼️ Imagify</a></h3>
+      <p>Text-to-image AI platform that turns creative prompts into stunning visuals using generative models.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-blue?style=flat-square" />
+        <img src="https://img.shields.io/github/stars/kejal2005/imagify-text-to-image?style=social" />
+        <img src="https://img.shields.io/github/forks/kejal2005/imagify-text-to-image?style=social" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/kejal2005/gemini-aiml-chatbot">🤖 Gemini-AIML Chatbot</a></h3>
+      <p>Hybrid AI chatbot combining Gemini API and AIML for smart, rule-aware conversations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-blue?style=flat-square" />
+        <img src="https://img.shields.io/github/stars/kejal2005/gemini-aiml-chatbot?style=social" />
+        <img src="https://img.shields.io/github/forks/kejal2005/gemini-aiml-chatbot?style=social" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 # 📊 GitHub Stats:
